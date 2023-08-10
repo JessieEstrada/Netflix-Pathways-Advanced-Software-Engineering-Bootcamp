@@ -87,7 +87,7 @@ public class AuthorControllerTest {
 
         String outputJson = mapper.writeValueAsString(author);
 
-        mockMvc.perform(get("/authors/45"))
+        mockMvc.perform(get("/authors/40"))
                 .andDo(print())
                 .andExpect(status().isOk());
     }

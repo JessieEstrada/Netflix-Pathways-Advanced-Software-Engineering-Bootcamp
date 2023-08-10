@@ -1,9 +1,9 @@
 openapi: 3.0.1
 info:
-  title: OpenAPI definition
+  title: Bookstore Inventory System API
   version: v0
 servers:
-  - url: http://localhost:8081
+  - url: http://localhost:8080
     description: Generated server url
 paths:
   /publishers:
