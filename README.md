@@ -1,5 +1,7 @@
 # Netflix Pathways Advanced Software Engineering Bootcamp
-![Netflix Pathways Bootcamp Image](Netflix-Pathways-Bootcamp-Image.png)
+<p align="center">
+  <img src="Netflix-Pathways-Bootcamp-Image.png" alt="Netflix Pathways Bootcamp Image" width="600" />
+</p>
 
 This repository showcases my journey and accomplishments during a rigorous Bootcamp. Throughout the program, I immersed myself in an intensive curriculum that was designed to equip me with essential programming skills and practical industry knowledge. 
 
