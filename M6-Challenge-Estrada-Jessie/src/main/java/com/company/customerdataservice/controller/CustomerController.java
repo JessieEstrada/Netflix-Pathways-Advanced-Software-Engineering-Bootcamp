@@ -52,30 +52,4 @@ public class CustomerController {
         return repo.findAllByState(state);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
